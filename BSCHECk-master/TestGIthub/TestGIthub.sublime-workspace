@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"new",
+				"newFr"
+			],
+			[
+				"am",
+				"am"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "data",
+		"selected_items":
+		[
+			[
+				"data",
+				"DataConverter: to CSV"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"apex",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"visal",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"create",
+				"MavensMate: Create Resource Bundle..."
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/nicholasdibona/Desktop/wsdl.xml",
+		"/Users/nicholasdibona/Desktop/EnterpriseWSDL.xml",
+		"/Users/nicholasdibona/Desktop/<wsdl:definitions xmlns:xsd=\"http:::www.w3.org:200",
+		"/Users/nicholasdibona/Desktop/test1/untitled",
+		"/Users/nicholasdibona/Desktop/test1/test1",
+		"/Users/nicholasdibona/Desktop/Xml.xml",
+		"/Users/nicholasdibona/TestMavens/test org/src/permissionsets/files.permissionset",
+		"/Sample Exam Get Raw Response.json",
+		"/Sample Exam.text",
+		"/Users/nicholasdibona/Desktop/shittygym.gpx",
+		"/canalPark.gpx",
+		"/Users/nicholasdibona/Desktop/tidabasin.gpx",
+		"/Users/nicholasdibona/Desktop/Congressional Cementary Gym.gpx",
+		"/Users/nicholasdibona/Desktop/trusties.gpx",
+		"/Users/nicholasdibona/Desktop/trusties",
+		"/Users/nicholasdibona/Desktop/untitled.html",
+		"/Users/nicholasdibona/Desktop/states-data.js",
+		"/Users/nicholasdibona/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Applications/World of Warcraft 1.12.1 OSX/WTF/Account/DEMONTX/Nostalrius Begins PvP/Demontx/AddOns.txt",
+		"/Applications/Hearthstone/DBF/CARD.xml",
+		"/Applications/Hearthstone/Logs/Hearthstone Install Log.html",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/SFDC/TrailHead/src/pages/ContactList.page",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/SFDC/TrailHead/src/classes/ContactListController.cls",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/InterviewPortal/src/pages/SalesOppsAcc.page",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/InterviewPortal/src/pages/salesNavAcc.page",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/InterviewPortal/resource-bundles/orgResource.resource/orgResources 2/CSS/portalTopNav.css",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/SFDCBackup/src/pages/facreq.page",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/SFDCBackup/src/classes/facReqController.cls",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/SFDCBackup/src/pages/AssetTracking.page",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/SFDCBackup/src/pages/Calendar1.page",
+		"/users/nicholasdibona/desktop/NICKS STUFF/SFDC/SFDCBackup/src/pages/calendar.page",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/bubbleChart/bubbleChartFlare.json",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/dendogram/clusterDendrogram.json",
+		"/Users/nicholasdibona/Desktop/FedSampleData.json",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/forceDirectedGraph/forceDirectedGraph.json",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/sunburst/sunburst_flare.json",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/circlePacking/flare.json",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/circularHeatDiagram/circularHeatDiagram.json",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/chordDiagram/chord_index.html",
+		"/Users/nicholasdibona/Desktop/d3v2.json",
+		"/Users/nicholasdibona/Desktop/Json1.json",
+		"/Users/nicholasdibona/Desktop/D3Topo.js",
+		"/Users/nicholasdibona/Desktop/d3.json",
+		"/Users/nicholasdibona/Desktop/NICKS STUFF/d3zip/d3/bubbleChart/bubbleChart_index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"case.status",
+			"classAccesses",
+			"fieldPermissions",
+			"fieldPermissionss",
+			"files",
+			"Colorado",
+			"Status",
+			"Status__c",
+			"facReqController",
+			"Facilities_Requests__c",
+			"ReqFullNam",
+			"ReqFullName",
+			"color: rgba(100, 65, 165, 1);",
+			"resource/",
+			"resource",
+			"rgb(25, 0, 251);",
+			"rgba(100, 65, 165, 1);",
+			".brand-img-container ",
+			"Facilities_requests__c",
+			"$component",
+			"fname",
+			"fieldSetName ",
+			"FacilitiesRequestsFields",
+			"fieldset",
+			"firstQuery",
+			"isvalid",
+			"submit",
+			"save",
+			"showCancelDialog",
+			"apex:commandlink",
+			"submit",
+			"save",
+			"submit",
+			"showCancelDialog",
+			"South America",
+			"North America",
+			"The Americas"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"row",
+			"leadreq",
+			"Lead",
+			"color: #428bca;",
+			"#428bca;",
+			"rgb(25, 0, 251);",
+			"Bugs__c",
+			"Deloitte Contractors",
+			"Deloitte Employees",
+			"Deloitte"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TestGIthub.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 469.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
